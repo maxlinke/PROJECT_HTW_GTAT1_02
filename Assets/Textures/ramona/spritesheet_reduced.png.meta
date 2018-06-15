@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 8ae2ccae0c4a1c447981d2526099c73e
+timeCreated: 1528907773
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_reduced_0
+    21300002: spritesheet_reduced_1
+    21300004: spritesheet_reduced_2
+    21300006: spritesheet_reduced_3
+    21300008: spritesheet_reduced_4
+    21300010: spritesheet_reduced_5
+    21300012: spritesheet_reduced_6
+    21300014: spritesheet_reduced_7
+    21300016: spritesheet_reduced_8
+    21300018: spritesheet_reduced_9
+    21300020: spritesheet_reduced_10
+    21300022: spritesheet_reduced_11
+    21300024: spritesheet_reduced_12
+    21300026: spritesheet_reduced_13
+    21300028: spritesheet_reduced_14
+    21300030: spritesheet_reduced_15
+    21300032: spritesheet_reduced_16
+    21300034: spritesheet_reduced_17
+    21300036: spritesheet_reduced_18
+    21300038: spritesheet_reduced_19
+    21300040: spritesheet_reduced_20
+    21300042: spritesheet_reduced_21
+    21300044: spritesheet_reduced_22
+    21300046: spritesheet_reduced_23
+    21300048: spritesheet_reduced_24
+    21300050: spritesheet_reduced_25
+    21300052: spritesheet_reduced_26
+    21300054: spritesheet_reduced_27
+    21300056: spritesheet_reduced_28
+    21300058: spritesheet_reduced_29
+    21300060: spritesheet_reduced_30
+    21300062: spritesheet_reduced_31
+    21300064: spritesheet_reduced_32
+    21300066: spritesheet_reduced_33
+    21300068: spritesheet_reduced_34
+    21300070: spritesheet_reduced_35
+    21300072: spritesheet_reduced_36
+    21300074: spritesheet_reduced_37
+    21300076: spritesheet_reduced_38
+    21300078: spritesheet_reduced_39
+    21300080: spritesheet_reduced_40
+    21300082: spritesheet_reduced_41
+    21300084: spritesheet_reduced_42
+    21300086: spritesheet_reduced_43
+    21300088: spritesheet_reduced_44
+    21300090: spritesheet_reduced_45
+    21300092: spritesheet_reduced_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_reduced_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 220
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 220
+        width: 29
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 220
+        width: 30
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 220
+        width: 31
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 220
+        width: 31
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 219
+        width: 28
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 30
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 219
+        width: 33
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 219
+        width: 31
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 219
+        width: 29
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 219
+        width: 33
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 224
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 229
+        width: 45
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 225
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 230
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 228
+        width: 37
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 117
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 42
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 117
+        width: 47
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 117
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 117
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 117
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 117
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 117
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 109
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 109
+        width: 36
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 109
+        width: 41
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 109
+        width: 44
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 109
+        width: 45
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 109
+        width: 46
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 109
+        width: 47
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_32
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 109
+        width: 45
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_33
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 109
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 50
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 71
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 67
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 68
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 60
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_40
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 60
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_41
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_43
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 68
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_45
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2
+        width: 68
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_reduced_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 68
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
